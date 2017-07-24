@@ -9,7 +9,7 @@ Simple Items Creator using Node.Js and Express.Js
 * [Node.Js](https://nodejs.org/) - Backend Technology
 * [Express.Js](https://expressjs.com/) - Node.Js Framework
 * [Materialize](http://materializecss.com/) - Css Front-End Framework
-* [EJS](http://ejs.co/) - EJS templete engine
+* [EJS](http://ejs.co/) - EJS template engine
 
 ## Author
 
